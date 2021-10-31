@@ -1,0 +1,46 @@
+allIpls = {
+		--			CLUBHOUSE 3
+	{
+		interiorsProps = {
+			'cash_stash1',
+			'cash_stash2',
+			'cash_stash3',
+			--'coke_stash1',
+			--'coke_stash2',
+			--'coke_stash3',
+			'counterfeit_stash1',
+			'counterfeit_stash2',
+			'counterfeit_stash3',
+			--'weed_stash1',
+			--'weed_stash2',
+			--'weed_stash3',
+			--'id_stash1',
+			--'id_stash2',
+			--'id_stash3',
+			--'meth_stash1',
+			--'meth_stash2',
+			--'meth_stash3',
+			--'decorative_01',
+			'decorative_02',
+			--'furnishings_01',
+			'furnishings_02',
+			--'walls_01',
+			'walls_02',
+			--'mural_01',
+			--'mural_02',
+			--'mural_03',
+			--'mural_04',
+			--'mural_05',
+			--'mural_06',
+			--'mural_07',
+			--'mural_08',
+			'mural_09',
+			'gun_locker',
+			'mod_booth',
+			--'no_gun_locker',
+			--'no_mod_booth'
+		},
+		coords={{120.7597, 3711.44, 40.72375}}
+	},
+	
+}
